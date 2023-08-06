@@ -2,6 +2,7 @@
 Leveraging Long Short-Term Memory (LSTM) neural networks, we forecast Google stock prices for January 2021. Our model utilizes 5-year historical data (2016-2020) and is evaluated on the test set for accurate predictions.
 
 **Executive Summary**
+
 This report presents the findings of our stock price prediction model for Google's stock prices in January 2021. The goal of this project was to develop a machine learning model using Long Short-Term Memory (LSTM) neural networks to forecast future stock prices based on historical data.
 
 **Introduction**
